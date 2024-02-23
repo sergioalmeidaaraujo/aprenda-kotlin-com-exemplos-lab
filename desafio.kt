@@ -35,3 +35,4 @@ fun main() {
     formacao.matricular(usuario2)
     formacao.matricular(usuario1) // Tentativa de matricular o mesmo usuário novamente
 }
+
